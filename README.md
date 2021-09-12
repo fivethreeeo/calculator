@@ -1,4 +1,4 @@
-# Web Game: word-relay
+# Web Game: Calculator
 
 - 사칙연산 계산기
 - https://mansaout.github.io/calculator/
@@ -13,7 +13,7 @@
 
 ### 기능 구현 목록
 
-<img src="programming-flowchart.jpg">
+<img src="programming-flowchart-calculator.jpg">
 
 <br>
 
