@@ -71,7 +71,8 @@ const calculateNumbers = () => {
   console.log(`${numOne} ${operator} ${numTwo} = ${result}`);
 
   // 다음 계산 준비
-  // 결과 값이 numOne, numTwo 는 '', operator는 ''
+  // 결과 값이 numOne에 할당,
+  // numTwo 는 '', operator는 ''
   numOne = result;
   numTwo = '';
   operator = '';

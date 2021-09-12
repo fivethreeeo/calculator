@@ -13,7 +13,7 @@
 
 ### 기능 구현 목록
 
-- v2.0.0 구현 시 업데이트 예정
+<img src="programming-flowchart.jpg">
 
 <br>
 
